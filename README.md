@@ -26,7 +26,7 @@ This project demonstrates portfolio optimization using Modern Portfolio Theory a
 ## Dashboard Preview
 ![Dashboard](dashboard.png.png)
 ![Efficient Frontier](dashboard 1.png)
-![Correlation](dashboard 3.png)
+![Correlation](dashboard3.png)
 
 ## Key Insights
 
