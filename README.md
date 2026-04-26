@@ -23,6 +23,9 @@ This project demonstrates portfolio optimization using Modern Portfolio Theory a
 2. Run: python app.py
 3. Open: http://127.0.0.1:8050/
 
+## Dashboard Preview
+![Dashboard](dashboard.png.png)
+
 ## Key Insights
 
 - The optimized portfolio achieves a strong balance between risk and return.
